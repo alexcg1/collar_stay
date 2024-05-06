@@ -1,3 +1,3 @@
-thickness = 0.5;
+thickness = 0.6;
 
 linear_extrude(height = thickness) import("./collar_stay.svg");
